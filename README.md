@@ -1,4 +1,4 @@
-# flutball_manager
+# Flutball Manager
 
 An online fantasy football like game built with Flutter and Firebase
 
@@ -20,6 +20,10 @@ Don't forget to download the google services json file.
 
 After that, you're good to go!
 
+## Target Platforms
+
+Only Android for now
+
 ## State management and performance
 
 Provider for now. I will explore Riverpod 2.0
@@ -30,8 +34,8 @@ Cloud Firestore + Realtime Database
 
 ## Roadmap
 
-- create models
-- figure out game simulation logic
+- Create models
+- Figure out game simulation logic
 
 ## Feedback
 
